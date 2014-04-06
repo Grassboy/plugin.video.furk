@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.video.furk" version="1.0.11" name="Furk.net" provider-name="Furk.net">
+	<requires/>
+	<extension point="xbmc.python.pluginsource"
+	           library="default.py">
+		<provides>video</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>
+			Plays video torrents from 'My Files :: Finished'. Check www.furk.net/text/mc for more info.
+	   	</summary>
+		<description>
+			Furk.net is your personal secure storage that fetches media files and lets you stream them immediately 
+		</description>
+		<platform>all</platform>
+		<minversion>29000</minversion>
+		<disclaimer>
+			You must have an account at www.furk.net for this addon to function.
+		</disclaimer>
+	</extension>
+</addon>
+
