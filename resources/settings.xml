@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <settings>
 	<setting id="login" type="text" label="20001" default=""/>
-	<setting id="password" type="text" label="20002" default="" option="hidden"/>
+	<setting id="other_login" type="text" label="20008" default=""/>
+	<setting id="password" type="text" label="20002" default="" option="hidden" />
 	<setting id="api_key" type="text" label="20004" default="" />
+  <setting id="auto_login" type="bool" label="20006" default="false" />
 	<setting type="sep" />
+  <setting id="enable_search" type="bool" label="20007" default="true" />
 	<setting id="recent_queries" type="text" label="20003" default=""/>
+	<setting type="sep" />
+	<setting id="save_dir" type="folder" label="20005" default="" />
 </settings>
 

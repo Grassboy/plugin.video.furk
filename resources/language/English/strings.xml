@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <strings>
-	<string id="20001">Login</string>
+	<string id="20001">Login account</string>
 	<string id="20002">Password</string>
 	<string id="20003">Recent search queries</string>
 	<string id="20004">API key (optional)</string>
+	<string id="20005">Default file download path</string>
+	<string id="20006">If not login, auto login</string>
+	<string id="20007">Enabled search feature</string>
+  <string id="20008">Spare accounts (separated by [space])</string>
 </strings>
 

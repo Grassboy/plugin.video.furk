@@ -10,3 +10,7 @@ feeds
 [B]1.0.8[/B]
 - fixed "called with an invalid handle" 
 
+[B]1.0.12[/B]
+- support multi-account switching
+- add "download" / "download to" / "delete" feature
+- add "display account bandwidth" feature
